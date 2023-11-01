@@ -17,6 +17,22 @@ Team member：刘沛戬、牟家慧、皮亚杰
 
 6. Delves into privacy and user experience aspects, including concerns about data security, user interface satisfaction, content moderation, screen time management, and future improvements.
 
+## Affinity Diagram
+
+![Affinity_diagram_0](./AffinityDiagram/Affinity_diagram_0.png)
+
+![Affinity_diagram_1](./AffinityDiagram/Affinity_diagram_1.png)
+
+![Affinity_diagram_1_1](./AffinityDiagram/Affinity_diagram_1_1.png)
+
+![Affinity_diagram_1_2](./AffinityDiagram/Affinity_diagram_1_2.png)
+
+![Affinity_diagram_1_3](./AffinityDiagram/Affinity_diagram_1_3.png)
+
+![Affinity_diagram_1_4](./AffinityDiagram/Affinity_diagram_1_4.png)
+
+![Affinity_diagram_1_5](./AffinityDiagram/Affinity_diagram_1_5.png)
+
 ## Data Collection Plan
 
 ### Interview
