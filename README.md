@@ -33,6 +33,14 @@ Team member：刘沛戬、牟家慧、皮亚杰
 
 ![Affinity_diagram_1_5](./AffinityDiagram/Affinity_diagram_1_5.png)
 
+## SurveyAnalysis
+
+![1](./SurveyAnalysis/1.png)
+
+![2](./SurveyAnalysis/2.png)
+
+![3](./SurveyAnalysis/3.png)
+
 ## Data Collection Plan
 
 ### Interview
